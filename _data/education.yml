@@ -16,8 +16,8 @@
   qualification: Bachelor's in Computer Science
   gpa: 7.2/10.0
   quote: >
-    "The B. V. Bhoomaraddi College of Engineering and Technology (BVBCET), believes in kindling the spirit of this unique and creative discipline in every student who enters its portals" 
+    "To Impart Quality Education and Job Oriented Trainings in the Field of Computer Science, Information Technology, Biotechnology and Management Science" 
   description: | # this will include new lines to allow paragraphs
-    - *Relevant Courses*: Computer Programming using C, Embedded systems, Real Time Operating System, Software Engineering, Data Structures using C, Management theory and Practices, Object Oriented programming with C++. 
-    - *Projects*: Smart Gloves for Deaf and Mute Children, Droid Alert System
+    - *Relevant Courses*: Computer Programming using C,Data structures using C,Operating System,Web Design, Database system, Software Engineering, Data Structures using C, Statistics, Object Oriented programming with C++. 
+    - *Projects*: Student Management System
     
