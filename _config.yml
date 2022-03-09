@@ -1,0 +1,80 @@
+# Site
+repository: PriyankaBulla/PriyankaBulla.github.io
+#favicon: images/favicon.ico
+
+# Personal info
+name: Priyanka Bulla
+title: MS in Information Technology and Management (Data Analytics and Management)
+email: pbulla@hawk.iit.edu
+phone: 312-868-8747
+#website: www.github.com/sproogen/resume-theme
+
+# Social links
+#twitter_username: facespics
+github_username:  PriyankaBulla
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+#instagram_username: chillwildlife
+linkedin_username: priyanka0507
+# pinterest_username: jekyll
+#youtube_username: globalmtb
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, I am Priyanka Bulla.
+  
+  I am a graduate student with study emphasis on Information Technology and Management and a data evangelist with a keen sense for data, its modeling and mining, pattern recognition, and trend analysis to discover valuable insights and visually represent them. I am knowledgeable in forecasting, pattern and trend identification and data insights. Highly skilled in public speaking, data analysis, and database design. Experienced in data visualization, customer segmentation, and analytics. Adept in classroom instruction and collaboration with students and faculty to create sustainable solutions in the information technology field.  
+  
+  I will be graduating from the Illinois Institute of Technology in May 2020 with a master’s degree in Information Technology and Management with Data Management as my major. I am currently seeking a new opportunity to use my knowledge and skills to help companies forecast trends, patterns, and behaviors to make metric and prediction-based decisions to improve accuracy, success rate, sales volume, or reduce cost and risk of the outcome. 
+
+  Scroll down to learn more about me!
+
+  
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+   - **Data** **Management**: Database Design and Management, Data Analysis, Pattern and Trend Identification, Visualization and Data Insights, Data Warehousing, Data Mining, Regression Analysis, Data Modeling, Predictive Analytics
+   - **Programming** **Languages**: C,C++,Java, SQL
+   - **Web Technology**: HTML5, CSS, JavaScript
+   - **Data Visualization**: Excel, Tableau, PowerBI, Pentaho CDE
+   - **BI and Reporting tools**: MS Power BI, Tableau, Excel VBA, VLOOKUP
+   - **Data Analytics**: Excel, R, SQL, Python, Saiku Analytics
+   - **Database**: MS Access, Oracle SQL developer, MYSQL, MS SQL
+   - **ETL Tools**: MS SSIS, Pentaho
+   - **Web Analytics**: Google Analytics
+   
+# Others Section
+# others_title: Achievements & Accomplishments
+others_content: | # this will include new lines to allow paragraphs
+   - Recipient of “Tech Edge Scholarship”, Illinois Institute of Technology, Chicago
+   - Edx HarvardX Data Science: R Basics Certification
+   - Interests: Reading Books, Collecting Stamps
+   - Volunteer: work as a Community Desk Assistant at IIT dorms.
+             
+
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag

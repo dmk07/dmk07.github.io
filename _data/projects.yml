@@ -1,0 +1,87 @@
+# Project template
+
+- layout: top-middle
+  name: Customer Behavioral Analytics for Retail Store | Feb 2020
+  #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    
+    A customer behavior analysis is a qualitative and quantitative observation of how customers interact with your company. Customers are first segmented into groups based on common grounds and then observed at different stages to analyze how the personas interact with your company.
+    
+  description: | # this will include new lines to allow paragraphs
+      
+      **Contributions:**
+       
+       - Performed Exploratory Data Analysis (EDA) on the Retail Store database to visually explore the characteristics of the data and discover transactional patterns of different customers and countries 
+       - Applied RFM (Recency, Frequency and Monetary value) principles to identify and segment customers using K-Means clustering for target marketing.       
+       - Performed Cohort Analysis to understand each customers’ lifetime value, the retention rate and anticipate the purchases made by a customer from its first purchase.
+
+- layout: top-middle
+  name: Credit Card Fraud Detection | December 2019
+  #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    
+    Have you ever used a credit card at a store only to be declined? Or have the payments been blocked because you were charged a higher amount. Credit Card Fraud is a wide-ranging term for theft and fraud committed using a credit Card or any similar payment mechanism as a fraudulent source of funds in a transaction.Despite the introduction of secure chip technology, credit card fraud remains a top concern for banks and financial institutions. A report published by “Nilson” shows that global credit card fraud losses equaled $22.8 billion in 2016.  
+  
+  description: | # this will include new lines to allow paragraphs
+      
+      **Contributions:**
+       
+       - Built model using past credit card transactions with the knowledge of the ones that turned out to be fraud and then used it to identify whether a new transaction is fraudulent or not.
+       - Applied Sampling techniques (Under Sampling and SMOTE) to resolve the imbalanced issue where 99.83% of the transactions in the data set were not fraudulent while only 0.17% were fraudulent. 
+       - Used Precision, Recall and F1-score to evaluate the results.
+
+- layout: top-middle
+  name: End to End Data Warehouse for a Retail Store | April 2019
+  #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+      
+      Data Warehousing (DW) is a process for collecting and managing data from varied sources to provide meaningful business insights. Data Warehouse plays an important role. It helps to analyze key aspects to improve sales of an enterprise.
+    
+  description: | # this will include new lines to allow paragraphs
+      
+      **Contributions:**
+       
+       - Designed an end-to-end sales data warehouse using Pentaho DI and performed various transformations on the data (Row Normalizer, Database Lookup, if field value is null)
+       - Designed a database using Star Schema and built a multi-dimensional cube using Mondrian
+       - Configured the Pentaho BI server to deploy reports by creating a database connection in Pentaho Enterprise Console for central usage. 
+       - Also, conducted analysis using the inbuilt Saiku Analytics Plugin and created an interactive dashboard using Tableau to demonstrate the results using pie chart, bar graphs, data blending feature and bubble charts.
+       
+- layout: top-middle
+  name: Interactive Analysis Report and Dashboard for Ted Talks using Power BI  | March 2019
+  #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    
+    TED is a nonprofit orgranization devoted to spreading ideas, usually in the form of short, powerful talks (18 minutes or less). TED began in 1984 as a conference where Technology, Entertainment and Design converged, and today covers almost all topics — from science to business to global issues — in more than 100 languages. 
+    
+  description: | # this will include new lines to allow paragraphs
+      
+      **Contributions:**
+       
+       - Used R scripts to import the data of Ted Talks and created Dax queries to generate computed columns.
+       - Performed data cleansing and preprocessing on the data set using the Power query and presented a report on the performance of Ted Talks over the years with respect to views, languages, days and the ratings using filters. 
+       - Published the report and the dashboard using Power BI services.
+       
+- layout: top-middle
+  name: Analysis of World Happiness Report | November 2018
+  #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    
+     The pursuit of happiness has been a part of humanity longer than some may think; some even argue that it’s the reason we continue to do more than just exist. Evidence of this stems back to Ancient Greece, when Philosophers such as Aristotle wrote about it in many of his texts. In fact, the “pursuit of happiness” was a vital part of the United States Declaration of Independence, written in 1776. With Thomas Jefferson stating how he believed that happiness is attainable by gaining knowledge and living a self-sufficient life surrounded by friends. If we look at the multitude of global religions, we see a similar importance placed on the idea of happiness.
+  
+  description: | # this will include new lines to allow paragraphs
+      
+      **Contributions:**
+      
+      - Built a model that identifies the factors influencing the world happiness with 92% accuracy 
+      - Performed hypothesis test on the data set, built a regression model and performed predictive analysis using R.
+      - Used classification algorithms like KNN, Naïve Bayes and logistic regression to validate the results.
+      - Performed data cleansing and preprocessing using R statistical packages. 
+      - Used correlation matrix to evaluate the correlation among variables and then used N-fold cross evaluation.
+      - Performed back-ward elimination and eliminated variables that were greater than the p value(depending on confidence interval) at each step
+      - Also used predict() function to predict the variables that affected the most and RMSE (Root mean square error) to check the accuracy of the prediction.
+       

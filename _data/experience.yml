@@ -1,0 +1,58 @@
+# Experience template
+- layout: left
+  company: Illinois Institute of Technology
+  link: https://www.iit.edu/
+  job_title: Graduate Teaching Assistant
+  dates: 2020-present
+  #quote: >
+  # Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+  
+      **Responsibilities**
+       
+        - Graduate Teaching Assistant for ITMD 525 (Data Mining) and ITMD 527 (Data Analytics) courses
+        - Assisting professor and teaching Data Analytics and Mining concepts to approximately 40 students.
+        - Grade and provide constructive feedback on data analytics and mining concepts and assignments
+        - Provide guidance and mentoring for students as they learn new concepts
+
+
+# Experience template
+- layout: left
+  company: Illinois Institute of Technology
+  link: https://www.iit.edu/
+  job_title: Student Assistant
+  dates: 2019-2020
+  #quote: >
+  # Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+  
+      **Responsibilities**
+       
+        - Create reports to analyze student program data and international agreements using Salesforce and Excel (pivot tables, sorting and filters)
+        - Troubleshoot admission and registration problems using Banner
+        - Update IIT International Affairs and ASEE-International Division websites using Drupal and WordPress respectively
+
+
+# Experience template
+- layout: left
+  company: AJ Calling
+  link: http://ajcalling.com/
+  job_title: Business Development Manager
+  dates: 2017-2018
+  #quote: >
+  # Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+  
+     **Responsibilities**
+     
+     - Reviewed customer feedback and suggested process improvements which increased customer satisfaction rate by 30%
+     - Designed and executed macros to automate data entry inputs 
+     - Generated monthly reports to show the top vendors and the areas needing improvements using Excel and PowerPoint. 
+     - Collaborated with the front-end developing team to build the company's website using HTML and CSS
+     - Brought potential clients on board; presided over meetings
+
+
+
+
+
+
