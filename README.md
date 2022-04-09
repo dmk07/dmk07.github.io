@@ -5,7 +5,7 @@ I'm a Java Developer Enthusiast and an open source contributor. I'm currently a 
 
 ▪️My Technical Skills:
 
-🔹️Programming Language: C, C++, JAVA
+🔹️Programming Language: C, C++, JAVA 
 🔹️Problem Solving Skills: Data structure & Algorithms , OOPs
 🔹️Web Development: Html , CSS , Javascript
 🔹️ Java Technologies : JDBC 4.0 , Servlet , JSP
