@@ -1,5 +1,6 @@
 Hi, I'm Dipak Kadam! 
-I'm a Java Developer Enthusiast and an open source contributor. I'm currently a student at College Of Computer Science and Information Technology (COCSIT), Latur affiliated with SRTM University, Nanded, India, where I have been completed my Bachelor's of Computer Science (B.Sc).Now I am pursuing Master's in Computer Science.
+I'm a Java Developer Enthusiast and an open source contributor.<br>
+I'm currently a student at College Of Computer Science and Information Technology (COCSIT), Latur affiliated with SRTM University, Nanded, India, where I have been completed my Bachelor's of Computer Science (B.Sc).Now I am pursuing Master's in Computer Science.
 
 🎓 An Open-Source enthusiast
 
@@ -22,6 +23,4 @@ I'm a Java Developer Enthusiast and an open source contributor. I'm currently a 
 Me around the web 🌎:
 
 Sharing updates on Linkedin-<a href="https://www.linkedin.com/in/dmk07/">@LinkedIn</a><br>
-Follow me on Twitter-@Twitter<br>
-Check my Tech profile on HackerRank-@HackerRank<br>
-Check out my Technical Articles on GeeksforGeeks-@GeeksforGeeks<br>
+
