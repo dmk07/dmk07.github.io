@@ -21,7 +21,7 @@ I'm a Java Developer Enthusiast and an open source contributor. I'm currently a 
 
 Me around the web 🌎:
 
-Sharing updates on Linkedin-@LinkedIn<br>
+Sharing updates on Linkedin-<a href="https://www.linkedin.com/in/dmk07/">@LinkedIn</a><br>
 Follow me on Twitter-@Twitter<br>
 Check my Tech profile on HackerRank-@HackerRank<br>
 Check out my Technical Articles on GeeksforGeeks-@GeeksforGeeks<br>
